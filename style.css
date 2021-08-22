@@ -24,13 +24,14 @@ body {
 /* start my own CSS */
 #header {
 	background-color: #4B9CD3;
+	margin-top: -26px;
 }
 #header h1 {
 	padding: 5px 15px;
 }
 #footer {
 	background-color: #4B9CD3;
-	position: absolute;
+	position: relative;
 	bottom: 0;
 	width: 960px;
 }
