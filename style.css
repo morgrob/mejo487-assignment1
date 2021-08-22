@@ -31,7 +31,7 @@ body {
 }
 #footer {
 	background-color: #4B9CD3;
-	position: relative;
+	position: absolute;
 	bottom: 0;
 	width: 960px;
 }
